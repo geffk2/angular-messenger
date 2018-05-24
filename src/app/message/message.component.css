@@ -1,0 +1,10 @@
+div.message-body {
+  text-align: right;
+}
+div.message-sender {
+  font-weight: bold;
+  font-size: 20px;
+}
+div.container {
+  width: 50%;
+}

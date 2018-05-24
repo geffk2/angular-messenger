@@ -1,0 +1,23 @@
+.footer-container {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.input-container {
+  position: fixed;
+  left: 15%;
+  bottom: 5%;
+  width:80%;
+}
+
+.inputElement {
+  display: inline-block;
+}
+
+input[type="text"] {
+  left:15%;
+  bottom: 25%;
+  width:70%;
+}
